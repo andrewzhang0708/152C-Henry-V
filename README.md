@@ -1,5 +1,7 @@
 # 152C-Henry-V
 
+[Link to French pronounciations](https://github.com/andrewzhang0708/152C-Henry-V/blob/main/French.md)
+
 # Rehearsal Schedule
 | Date           | Time   | Place  | Called  | Log       |
 |----------------|--------|--------|---------|-----------|
