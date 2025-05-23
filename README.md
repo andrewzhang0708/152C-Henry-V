@@ -12,7 +12,7 @@
 | 5/19 Monday    |~~7-8pm~~ 8-9pm |~~1703~~Library 4576|   FR    | Greeting; Thanking; Parsing; Frenching |
 | 5/20 Tuesday   | 8-9pm  |  1507  |   FR    |  More greeting; Koosh; more parsing; History info dump |
 | 5/21 Wednesday | 2-3pm  |  Let me figure out  |  Jasmine  | Reading; tigering; into dump; parsing; dictionarying |
-| 5/22 Thursday  | 7-8pm  |  1703  |   FR    |           |
+| 5/22 Thursday  |        |        |         |           |
 | 5/23 Friday    | 12-1pm |  1143  | Jasmine |           |
 | 5/24 Saturday  | 1-2pm  |  1703  | Jasmine |           |
 | 5/25 Sunday    | 6-7pm  |  1703  |   FR    |           |
