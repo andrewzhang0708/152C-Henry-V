@@ -21,7 +21,7 @@
 | 5/28 Wednesday | 7-8pm  |  1507  |   FR    |           |
 | 5/29 Thursday  | 7-8pm <br> **Might show in class**  |  1703  |   FR   |           |
 | 5/30 Friday    | 12-1pm | Studio |   ALL!  |           |
-| 5/31 Saturday  |        |        |         |           |
+| 5/31 Saturday  | 12-1pm |  1703  |   FR    |           |
 | 6/1 Sunday     |        |        |         |           |
 | 6/2 Monday     | Possibly: 6-7pm   |  1703  |     TBD    |           |
 | 6/3 Tuesday    |  **In Class Showing** <br> Possibly: 7-8pm |    1703    |     TBD    |           |
